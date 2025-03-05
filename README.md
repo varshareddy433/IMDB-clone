@@ -3,7 +3,7 @@
 An **IMDb-inspired** ReactJS movie search app using the **OMDb API**. Features live search, favorite movies, and a stylish IMDb-like UI.  
 
 ##  Live Demo  
-🔗 **[View on Bytexl](https://your-bytexl-url.com)**  
+🔗 **[View on Bytexl](https://2211cs050088.bytexl.live/)**  
 
 ---
 
